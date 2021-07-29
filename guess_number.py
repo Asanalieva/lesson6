@@ -16,3 +16,12 @@ try:
     main()
 except:
     print('Error') #srting etc will be error
+
+'''#Standup
+Что сделала:
+Выполнила дз
+План:
+повторить предыдущую тему
+Проблема:
+Не было
+'''
